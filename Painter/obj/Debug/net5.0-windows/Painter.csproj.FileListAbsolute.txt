@@ -1,0 +1,84 @@
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.Form1.resources
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.csproj.GenerateResource.cache
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.AssemblyInfoInputs.cache
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.AssemblyInfo.cs
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\Painter\Painter\bin\Debug\net5.0-windows\Painter.exe
+C:\Users\Ariel\source\repos\Painter\Painter\bin\Debug\net5.0-windows\Painter.deps.json
+C:\Users\Ariel\source\repos\Painter\Painter\bin\Debug\net5.0-windows\Painter.runtimeconfig.json
+C:\Users\Ariel\source\repos\Painter\Painter\bin\Debug\net5.0-windows\Painter.runtimeconfig.dev.json
+C:\Users\Ariel\source\repos\Painter\Painter\bin\Debug\net5.0-windows\Painter.dll
+C:\Users\Ariel\source\repos\Painter\Painter\bin\Debug\net5.0-windows\ref\Painter.dll
+C:\Users\Ariel\source\repos\Painter\Painter\bin\Debug\net5.0-windows\Painter.pdb
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.capas.resources
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.FormHerramientas.resources
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.dll
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\ref\Painter.dll
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.pdb
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.genruntimeconfig.cache
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\Painter\Painter\obj\Debug\net5.0-windows\Painter.Properties.Resources.resources
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\bin\Debug\net5.0-windows\Painter.exe
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\bin\Debug\net5.0-windows\Painter.deps.json
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\bin\Debug\net5.0-windows\Painter.runtimeconfig.json
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\bin\Debug\net5.0-windows\Painter.runtimeconfig.dev.json
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\bin\Debug\net5.0-windows\Painter.dll
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\bin\Debug\net5.0-windows\ref\Painter.dll
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\bin\Debug\net5.0-windows\Painter.pdb
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.csprojAssemblyReference.cache
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.capas.resources
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.Form1.resources
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.FormHerramientas.resources
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.Properties.Resources.resources
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.csproj.GenerateResource.cache
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.AssemblyInfoInputs.cache
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.AssemblyInfo.cs
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.dll
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\ref\Painter.dll
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.pdb
+C:\Users\Mariana\Desktop\Marian\Facu\Programación (2019)\Programación GUI I\dosPainters\Panter2\Painter\Painter\obj\Debug\net5.0-windows\Painter.genruntimeconfig.cache
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.exe
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.deps.json
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.runtimeconfig.json
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.runtimeconfig.dev.json
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.dll
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\ref\Painter.dll
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.pdb
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.capas.resources
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.Form1.resources
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.FormHerramientas.resources
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.Properties.Resources.resources
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.csproj.GenerateResource.cache
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.AssemblyInfoInputs.cache
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.AssemblyInfo.cs
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.dll
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\ref\Painter.dll
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.pdb
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.genruntimeconfig.cache
+C:\Users\Ariel\source\repos\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.exe
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.deps.json
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.runtimeconfig.json
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.runtimeconfig.dev.json
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.dll
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\ref\Painter.dll
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\bin\Debug\net5.0-windows\Painter.pdb
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.capas.resources
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.Form1.resources
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.FormHerramientas.resources
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.Properties.Resources.resources
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.csproj.GenerateResource.cache
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.AssemblyInfoInputs.cache
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.AssemblyInfo.cs
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.dll
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\ref\Painter.dll
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.pdb
+C:\Users\Ariel\Desktop\SilvestreAriel_Painter\Painter\obj\Debug\net5.0-windows\Painter.genruntimeconfig.cache
