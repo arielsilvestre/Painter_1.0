@@ -1,2 +1,7 @@
 # Painter_1.0
-programa simil Pain en C#
+programa simil Paint desarrollado en C#
+Versión BETA
+
+
+
+(muy beta)
